@@ -443,7 +443,7 @@ p-search_filter__date:first-child {
 .p-channel_sidebar__section_heading_label--clickable:hover,
 .p-channel_sidebar__section_heading_label--unreads,
 .p-channel_sidebar__quickswitcher:hover {
-    color: white !importnat;
+    color: yellow !importnat;
 }
 .p-download_item__actions{
     background:none;
@@ -1962,7 +1962,7 @@ padding-top:2px;}
     background: #222222;
     border: 1px solid #000000;}
     #fs_modal .fs_modal_btn:hover {
-    color: yellow;
+    color: #ffffff;
     background: #222222;}
     .c-message__label {
     color: #34ffdc;}
