@@ -1962,7 +1962,7 @@ padding-top:2px;}
     background: #222222;
     border: 1px solid #000000;}
     #fs_modal .fs_modal_btn:hover {
-    color: #ffffff;
+    color: yellow;
     background: #222222;}
     .c-message__label {
     color: #34ffdc;}
