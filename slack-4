@@ -2489,3 +2489,8 @@ span.c-message__body, a.c-message__sender_link, span.c-message_attachment__media
 .c-icon {
     color: #acacac !important;
 }
+
+.p-call_button_base--active {
+    /* background-color: #fff; */
+    color: #1d1c1d;
+}
