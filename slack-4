@@ -2486,3 +2486,6 @@ span.c-message__body, a.c-message__sender_link, span.c-message_attachment__media
     color: white;
     border-left: 1px solid #3c3c3c !important;
 }
+.c-icon {
+    color: #acacac !important;
+}
