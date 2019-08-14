@@ -2508,12 +2508,12 @@ span.c-message__body, a.c-message__sender_link, span.c-message_attachment__media
 }
 
 .p-call_subtype__body, .p-call_subtype__footer {
-     background-color: #123;
+     background-color: #123 !important;
 }
 .p-call_subtype__body, .p-call_subtype__header {
-     background-color: #123;
+     background-color: #123 !important;
 }
 
 .p-call_subtype__status, .p-call_subtype__title {
-    color: #fff;
+    color: #fff !important;
 }
