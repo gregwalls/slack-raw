@@ -2502,3 +2502,7 @@ span.c-message__body, a.c-message__sender_link, span.c-message_attachment__media
 .p-dm_browser_modal__list_row--active {
     background-color: #666;
 }
+
+.p-channel_sidebar__channel--im .c-presence--active, .p-channel_sidebar__channel--im-slackbot:before {
+    color: #39E500 !important;
+}
