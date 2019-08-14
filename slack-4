@@ -2519,5 +2519,5 @@ span.c-message__body, a.c-message__sender_link, span.c-message_attachment__media
 }
 
 .c-texty_autocomplete__result_highlight {
-    background: #888;
+    background: #888 !important;
 }
