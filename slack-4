@@ -2506,3 +2506,10 @@ span.c-message__body, a.c-message__sender_link, span.c-message_attachment__media
 .p-channel_sidebar__channel--im .c-presence--active {
     color: #39E500 !important;
 }
+
+.p-call_subtype__body, .p-call_subtype__footer {
+     background-color: #123;
+}
+.p-call_subtype__body, .p-call_subtype__header {
+     background-color: #123;
+}
