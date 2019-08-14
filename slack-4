@@ -2517,3 +2517,7 @@ span.c-message__body, a.c-message__sender_link, span.c-message_attachment__media
 .p-call_subtype__status, .p-call_subtype__title {
     color: #fff !important;
 }
+
+.c-texty_autocomplete__result_highlight {
+    background: #888;
+}
