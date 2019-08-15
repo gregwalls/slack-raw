@@ -2523,5 +2523,5 @@ span.c-message__body, a.c-message__sender_link, span.c-message_attachment__media
 }
 
 .workspace__primary_view_footer  {
-    background: #888 !important;
+    background: #474747 !important;
 }
